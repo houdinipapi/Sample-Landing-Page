@@ -7,25 +7,25 @@ open_positions = [
     "id": 1,
     "title": "Fashion Designer",
     "location": "Nairobi, Kenya",
-    "salary": "$25000"
+    "salary": "$2500"
   },
   {
     "id": 1,
     "title": "Pattern Maker",
     "location": "Nairobi, Kenya",
-    "salary": "$20000"
+    "salary": "$2000"
   },
   {
     "id": 1,
     "title": "Sample Maker",
     "location": "Nairobi, Kenya",
-    "salary": "$18000"
+    "salary": "$1800"
   },
   {
     "id": 1,
     "title": "Sketch Illustrator",
     "location": "Nairobi, Kenya",
-    "salary": "$15000"
+    "salary": "$1500"
   }
 ]
 
